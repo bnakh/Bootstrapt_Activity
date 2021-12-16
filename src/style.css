@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #eef0f5;
+   
+  }
+  h1 {
+    color: rgb(186, 26, 235);
+ 
+  }
+  h5{
+    color: rgb(186, 26, 235);
+   
+  }
+  li{
+      background-color: lightgray;
+      width: 200px;
+    list-style: none;
+    margin: auto;
+
+  
+ 
+    
+  }
+  
+  .product {
+       
+        justify-content: center;
+    height: auto;
+    text-align: center;
+
+  }
+  
+ 
+  
+  .product img {
+    width: 2rem;
+  }
